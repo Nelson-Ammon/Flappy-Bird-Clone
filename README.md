@@ -17,8 +17,6 @@ I used EXPO to help me create the app. Expo does alot of the leg work for you wh
 * [JavaScript Tutor](https://www.w3schools.com/js/DEFAULT.asp)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I can add cool graphics instead of having just the boxes. 
 * I would like to add a feature that speeds the game up as the player scores more points but it would only get so fast.
 * Saving high scores on the local device. 
